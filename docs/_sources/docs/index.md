@@ -1,7 +1,7 @@
 # Quick Javascript 
 
-This is a brief explanation of concepts on Javascript programming from beginners to intermediate programmers
-, written by [Thato S Mmusi.  Full Stack Web Developer](http://mmusi-thato.herokuapp.com/).
+This is a brief concise explanation of concepts on Javascript programming for beginners to intermediate programmers. 
+This address here will be a silo for the development of Quick JavaScript book as well as tutorial materials. Follow on to get uptodate on JavaScript.
 
 ```{note}
 This writing was built using the new Sphinx-based [Jupyter Book
